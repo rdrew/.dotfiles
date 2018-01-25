@@ -1,0 +1,5 @@
+Bundle 'dhruvasagar/vim-table-mode'
+Bundle 'Chiel92/vim-autoformat'
+Bundle 'prettier/vim-prettier'
+Bundle 'JamshedVesuna/vim-markdown-preview'
+Bundle 'dracula/vim'
